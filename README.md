@@ -1,4 +1,4 @@
-# Usap App
+# Usap App - Chat Application
 Go to server folder
 Go to config
 Change the mongodb uri to your mongodb connection string
